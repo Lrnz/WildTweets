@@ -1,0 +1,20 @@
+Logfile initialized
+[INFO] logfile = /Users/Kim/Documents/Interactive Multimedia Design/Semester 3/Mobiele ontwikkeling/Les2app/build.log
+[DEBUG] /Users/Kim/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/android/builder.py simulator Les2app /Users/Kim/Documents/Titanium/android-sdk-mac_x86 /Users/Kim/Documents/Interactive Multimedia Design/Semester 3/Mobiele ontwikkeling/Les2app Les2app 4 HVGA 
+[INFO] Building Les2app for Android ... one moment
+[INFO] Titanium SDK version: 1.7.2 (07/21/11 09:36 97c3689)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[INFO] Android Emulator has exited
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[ERROR] Timed out waiting for emulator to be ready, you may need to close the emulator and try again
